@@ -66,7 +66,7 @@
       <td>英検準１級</td>
     </tr>
     <tr>
-      <td>2020/04</td>
+      <td>2021/04</td>
       <td>TOEIC L&R 825点</td>
     </tr>
   </tbody>
