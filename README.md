@@ -46,7 +46,7 @@
 <table>
   <thead>
     <th>取得時期</th>
-    <th>資格</th>
+    <th>取得資格</th>
   </thead>
   <tbody>
     <tr>
