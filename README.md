@@ -1,16 +1,16 @@
-# github-profile-summary-cards-example
+# About ME
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuccho524&show_icons=true&theme=dark)
 
-:star: [Tutorial](https://github.com/kuccho524/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuccho524&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+大阪在住30歳の男です。プログラミングが好きです。<br>
+前職では未経験からNEを目指す中サポートセンターの常駐勤務で、端末操作、業務システムの操作、保守対応、簡単なネットワーク対応を行なっておりました。<br>
+学生時代から憧れていたSEやWebエンジニアになるべく、現在は日々プログラミング学習をしています。<br>
+趣味は楽器演奏、鉄道、英語です。
 
-```To create your profile README you need to name the repo as your username```
-
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
-[![](https://raw.githubusercontent.com/kuccho524/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/kuccho524/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kuccho524/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/kuccho524/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kuccho524/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/kuccho524/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/kuccho524/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kuccho524/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/kuccho524/github-profile-summary-cards)
-
-[More Info](https://github.com/kuccho524/github-profile-summary-cards)
+## 取得資格
+CCNA<br>
+LPIC Level1<br>
+Comptia Cloud+<br>
+TOEIC L&R 825点<br>
+英検準１級
