@@ -19,7 +19,7 @@ TOEIC L&R 825点<br>
 <table>
   <thead>
     <th>期間</th>
-    <th>職歴</th>
+    <th>職歴・経歴</th>
   </thead>
   <tbody>
     <tr>
