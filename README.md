@@ -8,13 +8,6 @@
 学生時代から憧れていたSEやWebエンジニアになるべく、現在は日々プログラミング学習をしています。<br>
 趣味は楽器演奏、鉄道、英語です。
 
-## Qualifications
-CCNA<br>
-LPIC Level1<br>
-Comptia Cloud+<br>
-TOEIC L&R 825点<br>
-英検準１級
-
 ## Career
 <table>
   <thead>
@@ -45,6 +38,36 @@ TOEIC L&R 825点<br>
     <tr>
       <td>2020/11 ~ 現在</td>
       <td>英語とプログラミングを学習中</td>
+    </tr>
+  </tbody>
+</table>
+
+## Qualifications
+<table>
+  <thead>
+    <th>取得時期</th>
+    <th>資格</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2018/10</td>
+      <td>Comptia Cloud+</td>
+    </tr>
+    <tr>
+      <td>2019/11</td>
+      <td>CCNA</td>
+    </tr>
+    <tr>
+      <td>2020/01</td>
+      <td>LPIC Level1</td>
+    </tr>
+    <tr>
+      <td>2021/03</td>
+      <td>英検準１級</td>
+    </tr>
+    <tr>
+      <td>2020/04</td>
+      <td>TOEIC L&R 825点</td>
     </tr>
   </tbody>
 </table>
