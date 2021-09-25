@@ -53,4 +53,5 @@ Comptia Cloud+<br>
 CCNA<br>
 LPIC Level1<br>
 英検準１級<br>
-TOEIC L&R 825点
+TOEIC L&R 825点<br>
+Java Silver
