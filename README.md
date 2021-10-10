@@ -58,4 +58,4 @@ CCNA<br>
 LPIC Level1<br>
 英検準１級<br>
 TOEIC L&R 825点<br>
-Java Silvera
+Java Silver
