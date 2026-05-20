@@ -1,62 +1,101 @@
-# About ME
-![Profile details card][(https://github-readme-stats.vercel.app/api?username=kuccho524&show_icons=true&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuccho524
-)
+# kuccho524
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?kuccho524=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+社内SE / 情シスとして、業務改善・自動化・小規模Webアプリ開発に取り組んでいます。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuccho524&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+現在は、社内の業務課題をもとに、Python / Google Apps Script / VBA / PowerShell / TypeScript / Next.js などを活用し、現場業務の効率化や管理業務の仕組み化を進めています。
 
-大阪出身千葉県在住30歳の男。英語とプログラミングを学習しています。<br>
-前職では未経験からネットワークエンジニアを目指す中、サポートセンターの常駐勤務で端末操作、業務システムの操作、端末保守、簡単なネットワーク対応を実施しました。<br>
-現在は学生時代から憧れていた、SEやWebエンジニアとして開発の現場で活躍するために日々学習しています。<br>
-趣味は楽器演奏、鉄道、英語です。
+## Strengths
 
-## Career
-<table>
-  <thead>
-    <th>期間</th>
-    <th>経歴</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2010/04 ~ 2014/03</td>
-      <td>京都橘大学文学部文化財学科</td>
-    </tr>
-    <tr>
-      <td>2010/07 ~ 2017/09</td>
-      <td>某飲食店に勤務（アルバイト）</td>
-    </tr>
-    <tr>
-      <td>2017/10 ~ 2018/05</td>
-      <td>ニュージーランドへ渡航</td>
-    </tr>
-    <tr>
-      <td>2017/12 ~ 2018/05</td>
-      <td>ニュージーランドの某中古自動車部品販売店に勤務(ワーホリ)</td>
-    </tr>
-    <tr>
-      <td>2018/10 ~ 2020/11</td>
-      <td>ネットワークエンジニアを目指し、某IT企業に勤務(正社員)</td>
-    </tr>
-    <tr>
-      <td>2018/11 ~ 2020/10</td>
-      <td>某企業のITサポートセンターに常駐勤務</td>
-    </tr>
-    <tr>
-      <td>2020/11 ~ 2021/10</td>
-      <td>退職後、英語とプログラミングを学習中</td>
-    </tr>
-    <tr>
-      <td>2021/11 ~</td>
-      <td>某IT企業に所属</td>
-    </tr>
-  </tbody>
- </table>
+- 社内SE / 情シスとしての実務経験
+- 現場業務を理解したうえでの業務改善・自動化
+- Pythonによるデータ加工・スクレイピング・Excel処理
+- Google Apps Script / GAM を使った Google Workspace 管理・移行支援
+- VBA / PowerShell / バッチによる社内業務の自動化
+- TypeScript / Next.js による小規模Webアプリ開発
+- 要件整理、設計、実装、運用改善までの一連の対応
+
+## Tech Stack
+
+### Web Application
+
+- TypeScript
+- Next.js
+- React
+- Prisma
+- Supabase PostgreSQL
+- Supabase Auth
+- Tailwind CSS
+- Vercel
+
+### Automation / Business Tools
+
+- Python
+- Google Apps Script
+- GAM
+- VBA
+- PowerShell
+- Batch
+- Excel / Google Sheets
+
+### Infrastructure / IT Support
+
+- Active Directory
+- Windows PC Kitting
+- Google Workspace Admin
+- Network troubleshooting
+- Helpdesk / IT support
+
+## Portfolio
+
+### Task App
+
+Project単位でTaskを管理できる小規模タスク管理アプリです。
+
+- Next.js / TypeScript / Prisma / Supabase / Vercel
+- ユーザー認証
+- Project / Task CRUD
+- 検索・絞り込み
+- 進捗率表示
+- 作成者ベースの編集・削除制御
+- Vitestによる単体テスト
+
+Repository: https://github.com/kuccho524/task-app  
+Demo: https://task-app-two-vert.vercel.app/
+
+### Google Contacts Migration Tool
+
+Google Workspace / GAM を利用した連絡先移行支援ツールです。
+
+- Google連絡先データの移行補助
+- CSV整形
+- GAM利用を前提とした運用支援
+- 情シス・Google Workspace管理業務を想定
+
+Repository: https://github.com/kuccho524/transferContacts
+
+## Career Summary
+
+- ITサポート / ヘルプデスク
+- Javaを中心としたシステム開発
+- 社内SE / 情シス
+- 業務改善、自動化、Google Workspace管理、PCキッティング、社内ツール開発
 
 ## Qualifications
-Comptia Cloud+<br>
-CCNA<br>
-LPIC Level1<br>
-英検準１級<br>
-TOEIC L&R 825点<br>
-Java Silver
+
+- Java SE 11 Silver
+- Oracle Master Bronze
+- CCNA
+- LPIC Level 1
+- CompTIA Cloud+
+- TOEIC L&R 825
+- 英検準1級
+
+## Current Focus
+
+現在は、副業・実務案件を見据えて、以下の領域を中心に制作物を増やしています。
+
+- 小規模Webアプリ開発
+- Google Workspace / GAM を活用した管理業務支援
+- Excel / Google Sheets 業務の自動化
+- Pythonによるデータ加工・レポート作成
+- 社内SE / 情シス向けの業務改善ツール
