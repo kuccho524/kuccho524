@@ -1,5 +1,5 @@
 # About ME
-![Anurag's GitHub stats][(https://github-readme-stats.vercel.app/api?username=kuccho524&show_icons=true&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuccho524
+![Profile details card][(https://github-readme-stats.vercel.app/api?username=kuccho524&show_icons=true&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuccho524
 )
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?kuccho524=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
