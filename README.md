@@ -19,6 +19,15 @@
 - TypeScript / Next.js による小規模Webアプリ開発
 - 要件整理、設計、実装、運用改善までの一連の対応
 
+## What I Can Do
+
+- Excel / CSV / Google Sheets のデータ整形・突合・集計
+- Python / VBA / GAS による業務自動化
+- Google Workspace / GAM を活用した管理業務支援
+- Google Contacts / Google Drive の移行支援
+- PowerShell / バッチによるWindows運用補助
+- Next.js / TypeScript による小規模Webアプリ開発
+
 ## Tech Stack
 
 ### Web Application
