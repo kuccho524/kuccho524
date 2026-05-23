@@ -78,6 +78,12 @@ Google Workspace / GAM を利用した連絡先移行支援ツールです。
 
 Repository: https://github.com/kuccho524/transferContacts
 
+### Google Workspace Drive移行支援ツール
+Google Driveの移行対象管理、権限確認、GAM実行補助を行う移行支援ツールです。  
+GAS / GAM / Google Drive を使用  
+
+Repository: https://github.com/kuccho524/transferGoogleDriveData
+
 ## Career Summary
 
 - ITサポート / ヘルプデスク
